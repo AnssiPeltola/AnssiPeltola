@@ -13,7 +13,7 @@ I'm a 32-year-old software development student from Tampere, Finland. I have a p
 - PostgreSQL
 - Phaser 3
 
-I'm also familiar with tools like Git, Visual Studio Code, Unity, Flyway, internet browser console, and Postman.
+I'm also familiar with tools like Git, Visual Studio Code, Unity, Flyway, Postman and internet browser console.
 
 ## Get in Touch
 
