@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello, I'm Anssi Peltola! 👋
 
-<!--
-**AnssiPeltola/AnssiPeltola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 32-year-old software development student from Tampere, Finland. I have a passion for creating innovative solutions and exploring new technologies. This is my GitHub profile where I share my projects and contributions.
 
-Here are some ideas to get you started:
+## Technologies I've Studied
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- JavaScript
+- TypeScript
+- Angular
+- Node.js
+- Express
+- PostgreSQL
+- Phaser 3
+
+I'm also familiar with tools like Git, Visual Studio Code, Unity, Flyway, internet browser console, and Postman.
+
+## Get in Touch
+
+- GitHub: [github.com/AnssiPeltola](https://github.com/AnssiPeltola)
+- LinkedIn: [linkedin.com/in/anssi-peltola-363255107](https://www.linkedin.com/in/anssi-peltola-363255107/)
+
+Feel free to explore my repositories and connect with me on LinkedIn. I'm always open to collaborating on exciting projects and expanding my knowledge in the field of software development.
+
+Let's code together and build amazing things! 🚀
