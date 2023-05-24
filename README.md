@@ -17,8 +17,9 @@ I'm also familiar with tools like Git, Visual Studio Code, Unity, Flyway, intern
 
 ## Get in Touch
 
-- GitHub: [github.com/AnssiPeltola](https://github.com/AnssiPeltola)
 - LinkedIn: [linkedin.com/in/anssi-peltola-363255107](https://www.linkedin.com/in/anssi-peltola-363255107/)
+- FaceBook: [https://www.facebook.com/anssi.peltola/](https://www.facebook.com/anssi.peltola/)
+- Instagram: [https://www.instagram.com/dasasd/](https://www.instagram.com/dasasd/)
 
 Feel free to explore my repositories and connect with me on LinkedIn. I'm always open to collaborating on exciting projects and expanding my knowledge in the field of software development.
 
