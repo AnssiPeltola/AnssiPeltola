@@ -4,9 +4,9 @@ I'm a 32-year-old software development student from Tampere, Finland. I have a p
 
 ## Technologies I've Studied
 
-- C#
 - JavaScript
 - TypeScript
+- C#
 - Angular
 - Node.js
 - Express
