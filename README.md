@@ -7,6 +7,8 @@ I'm a 32-year-old software development student from Tampere, Finland. I have a p
 - JavaScript
 - TypeScript
 - C#
+- HTML
+- CSS
 - Angular
 - Node.js
 - Express
