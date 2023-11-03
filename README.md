@@ -7,15 +7,16 @@ I'm a 32-year-old software development student from Tampere, Finland. I have a p
 - JavaScript
 - TypeScript
 - C#
+- SQL
+- REST API
 - HTML
 - CSS
 - Angular
 - Node.js
 - Express
-- PostgreSQL
 - Phaser 3
 
-I'm also familiar with tools like Git, Visual Studio Code, Unity, Flyway, Postman and internet browser console.
+I'm also familiar with tools like Git, Visual Studio Code, Unity, Flyway, Postman, Command Prompt and internet browser console.
 
 ## Get in Touch
 
