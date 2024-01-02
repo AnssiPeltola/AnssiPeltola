@@ -11,6 +11,7 @@ I'm a 32-year-old software development student from Tampere, Finland. I have a p
 - REST API
 - HTML
 - CSS
+- React
 - Angular
 - Node.js
 - Express
