@@ -12,9 +12,11 @@ I'm a 32-year-old software development student from Tampere, Finland. I have a p
 - HTML
 - CSS
 - React
+- Redux
 - Angular
 - Node.js
 - Express
+- Firebase
 - Phaser 3
 
 I'm also familiar with tools like Git, Visual Studio Code, Unity, Flyway, Postman, Command Prompt and internet browser console.
