@@ -1,6 +1,6 @@
 # Hello, I'm Anssi Peltola! 👋
 
-I'm a 32-year-old software development student from Tampere, Finland. I have a passion for creating innovative solutions and exploring new technologies. This is my GitHub profile where I share my projects and contributions.
+I'm a 33-year-old software development student from Tampere, Finland. I have a passion for creating innovative solutions and exploring new technologies. This is my GitHub profile where I share my projects and contributions.
 
 ## Technologies
 
