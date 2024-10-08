@@ -1,34 +1,53 @@
 # Hello, I'm Anssi Peltola! 👋
 
-I'm a 33-year-old software developer from Tampere, Finland. I have a passion for creating innovative solutions and exploring new technologies. This is my GitHub profile where I share my projects and contributions.
+I'm a software developer based in Tampere, Finland, with a diverse background in full-stack development and a passion for delivering innovative solutions. I enjoy building projects that range from full-stack web applications to game development, and I'm always eager to learn and apply new technologies. 
 
-## Technologies
+## About Me
 
-- JavaScript
-- TypeScript
-- C#
-- SQL
-- PostgreSQL
-- REST API
-- HTML
-- CSS
-- React
-- Redux
-- Angular
-- Node.js
-- Express.js
-- Passport-JWT
-- Firebase
-- Phaser 3
+After years of experience in the culinary industry, I transitioned into software development and never looked back. I have hands-on experience with a wide range of modern technologies in both frontend and backend development. I love working in collaborative environments, applying Agile methodologies, and contributing to projects that solve real-world problems.
 
-I'm also familiar with tools like Git, Visual Studio Code, Unity, Flyway, Postman, Command Prompt and internet browser console.
+Currently, I'm focusing on developing a recipe-sharing platform that allows users to create, modify, and share their favorite recipes. My experience includes working on various personal projects, internships, and client work, giving me a strong foundation in creating scalable and responsive web applications.
 
+## Technologies & Tools
+
+- **Languages & Frameworks**: 
+  - JavaScript, TypeScript, C#, React, Redux, Angular, HTML, SCSS/CSS, Phaser 3, SQL, PostgreSQL, Node.js, Express.js, Passport-JWT
+- **Tools**: 
+  - Git, GitHub, Visual Studio Code, Flyway, DBeaver, Postman, Firebase, Unity, Command Prompt, Internet Browser Console
+- **Cloud & Integration**: 
+  - Firebase, Boomi (Certified Professional Integration Developer)
+
+## Projects
+
+- **Recipe Sharing Platform**:  
+  A full-stack web application using React, TypeScript, Node.js, PostgreSQL, and Passport-JWT for authentication. Users can create, share, and explore recipes with a responsive and user-friendly interface.
+  - [Repository Link](https://github.com/AnssiPeltola/ReactRecipeSharingPlatform)
+
+- **Weather Finder App**:  
+  A weather forecasting app built with React, utilizing the OpenWeather API to fetch weather data for cities worldwide.
+  - [Repository Link](https://github.com/AnssiPeltola/ReactWeatherFinder)
+ 
+- **League of Legends Random Champion Spin Wheel**:  
+  An interactive web app using the LoL Champion API to randomly select champions. Built with JavaScript and Winwheel.js.
+  - [Repository Link](https://github.com/AnssiPeltola/League-of-Legends-Random-Champions-Spin-Wheel)
+
+## Experience
+
+- **Devolution (Trainee)**:  
+  Developed a web-based version of a mobile app using React, TypeScript, and Firebase. Served as Scrum Master for a four-member team, working with Agile methodologies.
+  
+- **Gavon (Trainee)**:  
+  Contributed to the development of a game using Phaser 3, Angular, TypeScript, and PostgreSQL. Gained experience in database management, REST API development, and real-time data handling.
+
+## Certifications
+
+- **Boomi Professional Integration Developer**:  
+  Expertise in designing, implementing, and managing integration processes.
+  
 ## Get in Touch
 
 - LinkedIn: [linkedin.com/in/anssi-peltola-363255107](https://www.linkedin.com/in/anssi-peltola-363255107/)
-- FaceBook: [https://www.facebook.com/anssi.peltola/](https://www.facebook.com/anssi.peltola/)
-- Instagram: [https://www.instagram.com/dasasd/](https://www.instagram.com/dasasd/)
+- GitHub: [github.com/AnssiPeltola](https://github.com/AnssiPeltola)
+- Email: [anssipeltola@hotmail.com](mailto:anssipeltola@hotmail.com)
 
-Feel free to explore my repositories and connect with me on LinkedIn. I'm always open to collaborating on exciting projects and expanding my knowledge in the field of software development.
-
-Let's code together and build amazing things! 🚀
+Feel free to connect with me on LinkedIn or explore my GitHub repositories. I'm always excited to collaborate on new projects, especially in full-stack development!
