@@ -48,6 +48,7 @@ Currently, I'm focusing on developing a recipe-sharing platform that allows user
 
 - LinkedIn: [linkedin.com/in/anssi-peltola-363255107](https://www.linkedin.com/in/anssi-peltola-363255107/)
 - GitHub: [github.com/AnssiPeltola](https://github.com/AnssiPeltola)
+- Portfolio: [https://anssipeltola.github.io/portfolio/](https://anssipeltola.github.io/portfolio/)
 - Email: [anssipeltola@hotmail.com](mailto:anssipeltola@hotmail.com)
 
 Feel free to connect with me on LinkedIn or explore my GitHub repositories. I'm always excited to collaborate on new projects, especially in full-stack development!
