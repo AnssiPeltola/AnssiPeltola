@@ -26,6 +26,12 @@ Currently, I'm focusing on developing a recipe-sharing platform that allows user
 - **Weather Finder App**:  
   A weather forecasting app built with React, utilizing the OpenWeather API to fetch weather data for cities worldwide.
   - [Repository Link](https://github.com/AnssiPeltola/ReactWeatherFinder)
+
+- **Lunch Discord Bot**:
+
+    LunchDiscordBot is a Discord bot created to fetch and post the daily and weekly lunch menus specifically for TPA Mortteli, the cafeteria at SASKY Tampereen palvelualan ammattiopisto. The bot automatically posts the daily menu every morning at 9 AM and allows users to fetch the menu on demand using slash commands. Additionally, it includes a sleep mode feature to disable menu posting during vacation periods.
+
+  - [Repository Link](https://github.com/AnssiPeltola/LunchDiscordBot)
  
 - **League of Legends Random Champion Spin Wheel**:  
   An interactive web app using the LoL Champion API to randomly select champions. Built with JavaScript and Winwheel.js.
