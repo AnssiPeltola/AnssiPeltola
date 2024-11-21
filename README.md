@@ -11,7 +11,7 @@ Currently, I'm focusing on developing a recipe-sharing platform that allows user
 ## Technologies & Tools
 
 - **Languages & Frameworks**: 
-  - JavaScript, TypeScript, C#, React, Redux, Angular, HTML, SCSS/CSS, Phaser 3, SQL, PostgreSQL, Node.js, Express.js, Passport-JWT
+  - JavaScript, TypeScript, C#, Python, React, Redux, Angular, HTML, SCSS/CSS, Phaser 3, SQL, PostgreSQL, Node.js, Express.js, Django, Passport-JWT
 - **Tools**: 
   - Git, GitHub, Visual Studio Code, Flyway, DBeaver, Postman, Firebase, Unity, Command Prompt, Internet Browser Console
 - **Cloud & Integration**: 
