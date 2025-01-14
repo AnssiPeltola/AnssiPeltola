@@ -15,7 +15,7 @@ Currently, I'm focusing on developing a recipe-sharing platform that allows user
 - **Tools**: 
   - Git, GitHub, Visual Studio Code, Flyway, DBeaver, Postman, Firebase, Unity, Command Prompt, Internet Browser Console
 - **Cloud & Integration**: 
-  - Firebase, Redis, Boomi (Certified Professional Integration Developer)
+  - Firebase, Redis, WebSocket, Boomi (Certified Professional Integration Developer)
 
 ## Projects
 
