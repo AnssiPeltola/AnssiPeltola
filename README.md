@@ -22,13 +22,17 @@ Currently, I'm focusing on developing a recipe-sharing platform that allows user
 - **Recipe Sharing Platform**:  
   A full-stack web application using React, TypeScript, Node.js, PostgreSQL, and Passport-JWT for authentication. Users can create, share, and explore recipes with a responsive and user-friendly interface.
   - [Repository Link](https://github.com/AnssiPeltola/ReactRecipeSharingPlatform)
+ 
+- **MeetUpHelper**:
+  
+  A calendar group app for organizing and managing events within groups. Users can create shared calendars, add events, and plan meetups through an integrated group chat. Built with Flutter (Dart) for the frontend and Django with PostgreSQL for the backend, featuring real-time notifications via WebSocket and Docker containerization.
+  - [Repository Link](https://github.com/AnssiPeltola/MeetUpHelper)
 
 - **Weather Finder App**:  
   A weather forecasting app built with React, utilizing the OpenWeather API to fetch weather data for cities worldwide.
   - [Repository Link](https://github.com/AnssiPeltola/ReactWeatherFinder)
 
 - **Lunch Discord Bot**:
-
     LunchDiscordBot is a Discord bot created to fetch and post the daily and weekly lunch menus specifically for TPA Mortteli, the cafeteria at SASKY Tampereen palvelualan ammattiopisto. The bot automatically posts the daily menu every morning at 9 AM and allows users to fetch the menu on demand using slash commands. Additionally, it includes a sleep mode feature to disable menu posting during vacation periods.
 
   - [Repository Link](https://github.com/AnssiPeltola/LunchDiscordBot)
