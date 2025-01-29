@@ -20,7 +20,10 @@ Currently, I'm focusing on developing a recipe-sharing platform that allows user
 ## Projects
 
 - **Recipe Sharing Platform**:  
-  A full-stack web application using React, TypeScript, Node.js, PostgreSQL, and Passport-JWT for authentication. Users can create, share, and explore recipes with a responsive and user-friendly interface.
+  A full-stack web application for food lovers to create, share, and discover recipes. Built with React, TypeScript, Redux, Node.js, and PostgreSQL, this platform allows users to manage their own recipes and engage with a growing community.
+  
+  Features include user authentication, profile management, recipe management, advanced search and sorting, favorites, comments, efficient pagination, RecipeSwiper, filter options, top recipes of the week, and ingredient search using the OpenFoodFacts API.
+            
   - [Repository Link](https://github.com/AnssiPeltola/ReactRecipeSharingPlatform)
  
 - **MeetUpHelper**:
