@@ -1,3 +1,9 @@
+![](https://github-readme-stats.vercel.app/api?username=AnssiPeltola&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AnssiPeltola&theme=aura_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnssiPeltola&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 # Hello, I'm Anssi Peltola! 👋
 
 I'm a software developer based in Tampere, Finland, with a diverse background in full-stack development and a passion for delivering innovative solutions. I enjoy building projects that range from full-stack web applications to game development, and I'm always eager to learn and apply new technologies. 
