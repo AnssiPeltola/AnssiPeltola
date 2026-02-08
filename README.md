@@ -10,9 +10,7 @@ I'm a software developer based in Tampere, Finland, with a diverse background in
 
 ## About Me
 
-After years of experience in the culinary industry, I transitioned into software development and never looked back. I have hands-on experience with a wide range of modern technologies in both frontend and backend development. I love working in collaborative environments, applying Agile methodologies, and contributing to projects that solve real-world problems.
-
-Currently, I'm focusing on developing a recipe-sharing platform that allows users to create, modify, and share their favorite recipes. My experience includes working on various personal projects, internships, and client work, giving me a strong foundation in creating scalable and responsive web applications.
+After nearly a decade in the culinary industry, I transitioned into software development to pursue my passion for technology and problem-solving. Since fall 2025, I have been pursuing a Bachelor of Business Administration (BBA) in Information Systems at Tampere University of Applied Sciences (TAMK), which complements my hands-on experience and helps me deepen my understanding of modern software development practices. My experience spans front-end and back-end technologies, and I thrive in collaborative, Agile-driven environments that focus on meaningful, real-world solutions.
 
 ## Technologies & Tools
 
