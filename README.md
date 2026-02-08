@@ -32,6 +32,17 @@ Currently, I'm focusing on developing a recipe-sharing platform that allows user
             
   - [Repository Link](https://github.com/AnssiPeltola/ReactRecipeSharingPlatform)
  
+- **WalkJournal**:   
+  A full‑stack walking tracker that logs sessions, visualizes weekly/monthly distance trends, and maps your journey progress. Built with Next.js, TypeScript, Tailwind CSS, Leaflet, and SQLite, it combines dashboards, heatmaps, and route timelines to make long‑term walking progress easy to see and update.
+  - [Repository Link](https://github.com/AnssiPeltola/WalkJournal)
+
+ - **TrackDuel**:    
+   A music discovery platform built with React that enables users to discover new music through head-to-head song battles. Users vote for their preferred tracks, building a personalized collection that can be exported directly to Spotify as a playlist.
+
+   Features include Spotify API integration, embedded music players, playlist creation and management, interactive onboarding for new users, and a Spotify-inspired UI for intuitive navigation.
+
+   - [Repository Link](https://github.com/AnssiPeltola/TrackDuel)
+ 
 - **MeetUpHelper**:
   
   A calendar group app for organizing and managing events within groups. Users can create shared calendars, add events, and plan meetups through an integrated group chat. Built with Flutter (Dart) for the frontend and Django with PostgreSQL for the backend, featuring real-time notifications via WebSocket and Docker containerization.
@@ -45,10 +56,6 @@ Currently, I'm focusing on developing a recipe-sharing platform that allows user
     LunchDiscordBot is a Discord bot created to fetch and post the daily and weekly lunch menus specifically for TPA Mortteli, the cafeteria at SASKY Tampereen palvelualan ammattiopisto. The bot automatically posts the daily menu every morning at 9 AM and allows users to fetch the menu on demand using slash commands. Additionally, it includes a sleep mode feature to disable menu posting during vacation periods.
 
   - [Repository Link](https://github.com/AnssiPeltola/LunchDiscordBot)
- 
-- **League of Legends Random Champion Spin Wheel**:  
-  An interactive web app using the LoL Champion API to randomly select champions. Built with JavaScript and Winwheel.js.
-  - [Repository Link](https://github.com/AnssiPeltola/League-of-Legends-Random-Champions-Spin-Wheel)
 
 ## Experience
 
